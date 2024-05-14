@@ -194,3 +194,7 @@ main {
     color: hsl(228, 45%, 44%);
   }
 }
+
+.hidden {
+  display: none;
+}
